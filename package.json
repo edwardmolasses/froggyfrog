@@ -1,0 +1,13 @@
+{
+  "name": "froggyfrog-membership",
+  "version": "0.0.1",
+  "author": "Andrew Lachkovics",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "^2.2.5",
+    "should": "^7.0.4"
+  }
+}
